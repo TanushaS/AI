@@ -1,2 +1,2 @@
 # AI
-Time Table Generator
+LAB
